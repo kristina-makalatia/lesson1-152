@@ -1,0 +1,27 @@
+.header-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.ul-item {
+    display: flex;
+}
+.li-item {
+    margin-right: 53px;
+}
+
+.background-image {
+    background-image: url(../images/image.png);
+    height: 503px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+}
+
+.section-bg {
+    background-color: #2A2626;
+}
+.image-flex {
+    display: flex;
+    justify-content: space-between;
+}
